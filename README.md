@@ -19,3 +19,14 @@ preparing for placements
 DAY-3
 
 priya mam tell us about happiness, physical facilities, relationship and right understanding 
+
+DAY-4
+
+ * in chemistry lecture 
+rajveer mam telling about chemistry chapters 
+
+ * in coding lecture 
+
+  senior telling us about c++ basics 
+at 12:30 priya mam telling us about
+the important of happiness which different from excitement and how to live life without stress 
