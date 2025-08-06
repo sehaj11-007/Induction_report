@@ -30,3 +30,8 @@ rajveer mam telling about chemistry chapters
   senior telling us about c++ basics 
 at 12:30 priya mam telling us about
 the important of happiness which isdifferent from excitement and how to live life without stress 
+
+DAY-5
+in p2p lecture senior tell us about operators , database 
+in math lecture take induction 
+
