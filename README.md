@@ -3,7 +3,7 @@ DAY-2
 
 * Telling us about satya schorship program benefits and how to apply it
   
-* taran and Arshdeep tell us about github and about markdown
+* taran and Arshdeep  tell us about github and about markdown
   
 * harpreet mam tell us about
 
@@ -40,9 +40,9 @@ DAY-5
 * in math lecture . sir take introduction 
 
 
-* in next lecture in auditorium 
+* The next lecture in auditorium 
 
-- gurcharan Singh sir tell about college facilities and about campus and about hostel , gurudwara sahib , dispensary,computer center and anand utsav  , about placements 
+- gurcharan Singh sir tell about college facilities and about campus and about hostel , gurudwara sahib , dispensary,computer center and anand utsav  , and about placements 
 
 - lakhvir sir tell about Central for multi faceted learning ( CML ) which includes NPTEL and SWAYAM course and also about personality development and skills , preparation for gate ,psu etc
 
