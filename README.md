@@ -23,13 +23,13 @@ DAY-3
 DAY-4
 
  * in chemistry lecture 
-rajveer mam telling about chemistry chapters 
+rajveer mam telling us about chemistry chapters 
 
  * in coding lecture 
 
 -  senior telling us about c++ basics 
 at 12:30 priya mam telling us about
-the important of happiness which isdifferent from excitement and how to live life without stress 
+the importance  of happiness which is different from excitement and how to live life without stress 
 
 DAY-5
 
@@ -37,7 +37,7 @@ DAY-5
 * in p2p lecture senior tell us about operators , database 
 
 
-* in math lecture  sir take introduction 
+* in math lecture . sir take introduction 
 
 
 * in next lecture in auditorium 
@@ -49,7 +49,6 @@ DAY-5
 
 DAY-6
 
-* auditorium 
 
 
 * in BEEE lecture mandeep mam teach us about 
@@ -60,6 +59,9 @@ DAY-6
 
 *  In next lecture i go in TCC seminar  hall for ID card 
 
+DAY-7
+from 9:00 to 12:30 there is p2p lecture 
+in this lecture senior's teach us about  conditions such as if else  and also about loops like for loop , while loop and do while loop they tell us about bytes in data type and also about laptops and windows and about visual studio code which one have to be prefer for coding 
 
 
 
