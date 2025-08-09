@@ -63,7 +63,10 @@ DAY-7
 
 
 
-from 9:00 to 12:30 there is p2p lecture 
+from 🕒 9:00 to 12:30 
+
+
+there is p2p lecture 
 in this lecture senior's teach us about  conditions such as if else  and also about loops like for loop , while loop and do while loop they tell us about bytes in data type and also about laptops and windows and about visual studio code which one have to be prefer for coding 
 
 
