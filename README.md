@@ -70,6 +70,47 @@ there is p2p lecture
 in this lecture senior's teach us about  conditions such as if else  and also about loops like for loop , while loop and do while loop they tell us about bytes in data type and also about laptops and windows and about visual studio code which one have to be prefer for coding 
 
 
+DAY -8
+
+from 🕒 9:00 to 11:30.   
+
+
+i attend my p2p lecture in os lab in cse department . Harminder mam tell us about the computer and about input and output devices their types after that i make notes of p2p lecture 
+
+
+at 🕒 11:30 to 12:30.  
+BREAK 
+
+
+🕒 12:30 to 1:30.  
+
+ismeet sir solving  the general alplitude of english and math 
+
+
+🕓1:30 to 2:30. 
+
+
+rajveer attend our lecture of chemistry she teaches us about water chemistry and telling us about the marking scheme in first year and also about chemistry lab
+
+
+🕥2:30 to 3:30pm
+
+
+nisha mam attend our lecture of professional english communication 
+mam tell us about the syllabus 
+
+
+
+🕓3:30 to 4:30. 
+
+
+we meet our mentor . 
+
+
+
+
+
+
 
 
 
