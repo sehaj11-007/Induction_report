@@ -107,6 +107,40 @@ mam tell us about the syllabus
 we meet our mentor . 
 
 
+DAY-9
+
+
+🕛11:30.  
+
+
+
+telling us about pms scholarship and about OTR and Freeship card and how to apply this scholarship.
+
+
+
+🕛12:30 to 1:30 
+
+BREAk
+
+
+
+🕥1:30 to 2:30.  
+
+
+our lecture is of professional english communication . in this lecture nisha mam teach us about communication and their types
+
+
+
+🕛2:30 to 4:00
+
+mandeep mam take lecture  of  BEEE in lab and teach us about ohm's law and teach us  how current change with temperature 
+
+
+
+
+
+
+
 
 
 
