@@ -133,7 +133,7 @@ our lecture is of professional english communication . in this lecture nisha mam
 
 🕛2:30 to 4:00
 
-mandeep mam take lecture  of  BEEE in lab and teach us about ohm's law and teach us  how current change with temperature 
+mandeep mam take lecture  of  BEEE in lab and teach us about ohm's law and teach us  how current changes with temperature 
 
 
 
