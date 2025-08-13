@@ -34,7 +34,7 @@ the importance  of happiness which is different from excitement and how to live 
 DAY-5
 
 
-* in p2p lecture senior tell us about operators , database 
+* in p2p lecture senior tell us about operators , database .
 
 
 * in math lecture . sir take introduction 
@@ -42,9 +42,9 @@ DAY-5
 
 * The next lecture in auditorium 
 
-- gurcharan Singh sir tell about college facilities and about campus and about hostel , gurudwara sahib , dispensary,computer center and anand utsav  , and about placements 
+- gurcharan Singh sir tell about college facilities and about campus and about hostel , gurudwara sahib , dispensary,computer center and anand utsav  , and about placements .
 
-- lakhvir sir tell about Central for multi faceted learning ( CML ) which includes NPTEL and SWAYAM course and also about personality development and skills , preparation for gate ,psu etc
+- lakhvir sir tell about Central for multi faceted learning ( CML ) which includes NPTEL and SWAYAM course and also about personality development and skills , preparation for gate ,psu etc.
 
 
 DAY-6
@@ -57,7 +57,7 @@ DAY-6
  network or circuit and their types
 
 
-*  In next lecture i go in TCC seminar  hall for ID card 
+*  In next lecture i go in TCC seminar  hall for ID card .
 
 DAY-7
 
@@ -67,7 +67,7 @@ from 🕒 9:00 to 12:30
 
 
 there is p2p lecture 
-in this lecture senior's teach us about  conditions such as if else  and also about loops like for loop , while loop and do while loop they tell us about bytes in data type and also about laptops and windows and about visual studio code which one have to be prefer for coding 
+in this lecture senior's teach us about  conditions such as if else  and also about loops like for loop , while loop and do while loop they tell us about bytes in data type and also about laptops and windows and about visual studio code which one have to be prefer for coding .
 
 
 DAY -8
@@ -75,7 +75,7 @@ DAY -8
 from 🕒 9:00 to 11:30.   
 
 
-i attend my p2p lecture in os lab in cse department . Harminder mam tell us about the computer and about input and output devices their types after that i make notes of p2p lecture 
+i attend my p2p lecture in os lab in cse department . Harminder mam tell us about the computer and about input and output devices their types after that i make notes of p2p lecture .
 
 
 at 🕒 11:30 to 12:30.  
@@ -84,27 +84,27 @@ BREAK
 
 🕒 12:30 to 1:30.  
 
-ismeet sir solving  the general alplitude of english and math 
+ismeet sir solving  the general alplitude of english and math .
 
 
 🕓1:30 to 2:30. 
 
 
-rajveer attend our lecture of chemistry she teaches us about water chemistry and telling us about the marking scheme in first year and also about chemistry lab
+rajveer attend our lecture of chemistry she teaches us about water chemistry and telling us about the marking scheme in first year and also about chemistry lab.
 
 
 🕥2:30 to 3:30pm
 
 
 nisha mam attend our lecture of professional english communication 
-mam tell us about the syllabus 
+mam tell us about the syllabus .
 
 
 
 🕓3:30 to 4:30. 
 
 
-we meet our mentor . 
+we meet our mentor . mam add us in mentoring group.
 
 
 DAY-9
@@ -127,13 +127,39 @@ BREAk
 🕥1:30 to 2:30.  
 
 
-our lecture is of professional english communication . in this lecture nisha mam teach us about communication and their types
+our lecture is of professional english communication . in this lecture nisha mam teach us about communication and their types.
 
 
 
 🕛2:30 to 4:00
 
-mandeep mam take lecture  of  BEEE in lab and teach us about ohm's law and teach us  how current changes with temperature 
+mandeep mam take lecture  of  BEEE in lab and teach us about ohm's law and teach us  how current changes with temperature .
+
+
+DAY-10
+
+
+🕒9:30 to 10:30 
+
+the lecture is of BEEE . mandeep mam teach us about parallel,series and star-Delta circuits .
+
+
+10:30🕦 to 11:30 
+
+
+The math teacher teach us about differentiation .
+
+
+🕦11:30 to 12:30. 
+
+BREAK
+
+
+🕧12:30 to 2:30 
+
+The lecture is of programming for problem solving in os lab . Harminder mam teach us about memory stored in computer, RAM ,ROM and their types.
+
+
 
 
 
