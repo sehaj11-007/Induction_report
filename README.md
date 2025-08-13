@@ -3,7 +3,7 @@ DAY-2
 
 * Telling us about satya schorship program benefits and how to apply it
   
-* taran and Arshdeep  tell us about github and about markdown
+*  sharanjeet sir telling us about github and about markdown
   
 * harpreet mam tell us about
 
