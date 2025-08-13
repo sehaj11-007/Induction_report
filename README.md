@@ -90,7 +90,7 @@ ismeet sir solving  the general alplitude of english and math .
 🕓1:30 to 2:30. 
 
 
-rajveer attend our lecture of chemistry she teaches us about water chemistry and telling us about the marking scheme in first year and also about chemistry lab.
+rajveer mam   take our lecture  of chemistry teach about the water chemistry and telling us about the marking scheme in first year and also about chemistry lab.
 
 
 🕥2:30 to 3:30pm
@@ -147,7 +147,7 @@ the lecture is of BEEE . mandeep mam teach us about parallel,series and star-Del
 10:30🕦 to 11:30 
 
 
-The math teacher teach us about differentiation .
+The math teacher teaching about differentiation .
 
 
 🕦11:30 to 12:30. 
