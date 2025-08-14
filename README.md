@@ -161,7 +161,31 @@ The lecture is of programming for problem solving in os lab . Harminder mam teac
 
 
 
+DAY-11
 
+
+🕛10:30 to 11:30 
+
+
+The lecture is of english communication .Nisha mam teach us about method of communication ( formal and informal)and channels of communication (upward,downward, Horizontal and diagonal communication).
+
+
+ 🕥11:30 to 12:30 
+
+
+The lecture is of BEEE . Mandeep mam teach us about Kirchhoff circuit law and its types . 
+
+
+🕛12:30 to 1:30 
+
+I go to CML office for interview.
+
+
+
+🕥1:30 to 2:30 
+
+
+Math teacher teach us limit and continuity.
 
 
 
