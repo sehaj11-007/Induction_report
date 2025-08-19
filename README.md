@@ -188,6 +188,43 @@ I go to CML office for interview.
 Math teacher teach us limit and continuity.
 
 
+DAY-12
+
+
+🕥9:30 to 11:30 
+
+The lecture is of pps.harminder mam teach us about operating system and its types.
+
+
+🕚11:30 to 12:30 
+
+Break
+
+
+🕕 12:30 to 1:30. 
+
+ The lecture is of Math.sukhminder sir teach us  about limits and continuity
+
+
+ 🕧 1:30 to 2:30 
+
+
+ The lecture is of chemistry. Rajvir mam teach us about types of water,and numerical based on hardness of water.
+
+
+
+ 🕥 2:30 to 3:30
+
+
+ The lecture is of English Communication.Nisha mam teaches us barriers of communication.
+
+
+ 🕚3:30 to 4:30 
+
+
+ the lecture is of mentoring class. khushi mam tell us about the compitition and about the  clubs.
+
+
 
 
 
